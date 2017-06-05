@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1397117502509
+Bundle-ManifestVersion: 2
+Bundle-Name: io.spray.json
+Bundle-SymbolicName: io.spray.json
+Bundle-Version: 1.2.6
+Created-By: 1.7.0_51 (Oracle Corporation)
+Export-Package: spray.json;version="1.2.6";uses:="org.parboiled,org.parb
+ oiled.matchers,org.parboiled.scala,org.parboiled.scala.rules,org.parboi
+ led.support,scala,scala.collection,scala.collection.immutable,scala.col
+ lection.mutable,scala.math,scala.reflect,scala.runtime,scala.util"
+Import-Package: scala;version="[2.10,2.11)",scala.collection;version="[2
+ .10,2.11)",scala.collection.generic;version="[2.10,2.11)",scala.collect
+ ion.immutable;version="[2.10,2.11)",scala.collection.mutable;version="[
+ 2.10,2.11)",scala.math;version="[2.10,2.11)",scala.reflect;version="[2.
+ 10,2.11)",scala.runtime;version="[2.10,2.11)",scala.sys;version="[2.10,
+ 2.11)",scala.util;version="[2.10,2.11)",scala.util.control;version="[2.
+ 10,2.11)",org.parboiled;version="[1.1,2)",org.parboiled.errors;version=
+ "[1.1,2)",org.parboiled.matchers;version="[1.1,2)",org.parboiled.scala;
+ version="[1.1,2)",org.parboiled.scala.parserunners;version="[1.1,2)",or
+ g.parboiled.scala.rules;version="[1.1,2)",org.parboiled.support;version
+ ="[1.1,2)",spray.json;version="1.2.6"
+Tool: Bnd-2.1.0.20130426-122213

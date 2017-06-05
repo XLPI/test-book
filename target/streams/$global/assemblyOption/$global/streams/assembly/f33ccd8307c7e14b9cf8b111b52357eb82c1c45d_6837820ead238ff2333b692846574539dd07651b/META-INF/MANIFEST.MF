@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.novus
+Implementation-Title: salat-util
+Implementation-Version: 1.9.8
+Implementation-Vendor-Id: com.novus
+Specification-Vendor: com.novus
+Specification-Title: salat-util
+Implementation-URL: https://github.com/novus/salat
+Specification-Version: 1.9.8
+

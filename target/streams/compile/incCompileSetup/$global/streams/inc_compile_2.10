@@ -1,0 +1,507 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Service$.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Service$delayedInit$body.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Service.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Book$.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Book.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/BookReduced$.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/BookReduced.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceActor.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$1.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$3.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$2$$anonfun$apply$5.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$2.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$3$$anonfun$apply$7.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$3.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$4$$anonfun$apply$8.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$4.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$class.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/StaticRoute$class.class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/StaticRoute.class
+binary dependencies:
+18 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /home/xlpi/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-can/bundles/spray-can-1.3.1.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-io/bundles/spray-io-1.3.1.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /home/xlpi/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /home/xlpi/jdk1.8.0_112/jre/lib/rt.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/com.novus/salat-core_2.10/jars/salat-core_2.10-1.9.8.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-http/bundles/spray-http-1.3.1.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-httpx/bundles/spray-httpx-1.3.1.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-json_2.10/bundles/spray-json_2.10-1.2.6.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-routing/bundles/spray-routing-1.3.1.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/io.spray/spray-util/bundles/spray-util-1.3.1.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/org.mongodb/casbah-commons_2.10/jars/casbah-commons_2.10-2.7.2.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.2.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.12.2.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /home/xlpi/jdk1.8.0_112/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> /media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> com.technologyconversations.api.Service
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> com.technologyconversations.api.Service$
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> com.technologyconversations.api.Service$delayedInit$body
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.Book
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.Book$
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.BookReduced
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.BookReduced$
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceActor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$1$$anonfun$apply$1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$1$$anonfun$apply$3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$2$$anonfun$apply$5
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$3$$anonfun$apply$7
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$$anonfun$4$$anonfun$apply$8
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.ServiceRoute$class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.StaticRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com.technologyconversations.api.StaticRoute$class
+used names:
+314 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> !
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> <init>
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Actor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ActorRef
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ActorSystem
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Any
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> App
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Bind
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Class
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ClassTag
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Extension
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ExtensionId
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Http
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> IO
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Inet
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Int
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Nothing
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Object
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Option
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Predef
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Props
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> SSLContext
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> SSLContextProvider
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ScalaActorRef
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Self
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ServerSSLEngineProvider
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ServerSettings
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Service
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> ServiceActor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> SocketOption
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> String
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> T
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Traversable
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> Unit
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> _$6
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> actor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> actorOf
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> actorRef2Scala
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> akka
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> api
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> apply
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> can
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> com
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> default
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> forContext
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> io
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> materializeClassTag
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> package
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> qual$1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> scala
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> service
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> spray
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> system
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> technologyconversations
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> x$1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> x$2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> &&
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ->
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> /
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ::
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> <:<
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> <byname>
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> <init>
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> <refinement>
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> <repeated>
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ==
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> A
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> AbstractFunction3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> AbstractFunction4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Actor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ActorContext
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ActorRefFactory
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Any
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> AnyRef
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ApplyConverter
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ArrowAssoc
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> B
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Book
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> BookReduced
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Boolean
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> C
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> CanBuildFrom
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ClassManifest
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ClassManifestFactory
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Coll
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ContentTypeResolver
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Context
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> CursorType
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> DBEncoder
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> DBObject
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Default
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> DefaultJsonProtocol
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Deserializer
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Directive
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Directive0
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Directive1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Duration
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ExceptionHandler
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> File
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> FromMessageUnmarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> FromRequestUnmarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Function1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Function3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Function4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Grater
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> HList
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> HNil
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> HttpHeader
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> HttpHeaders
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> HttpService
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Imports
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> In
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> IndexOutOfBoundsException
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Int
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> IntJsonFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> IntNumber
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Iterator
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> JF
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> JsArray
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> JsonFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> JsonPrinter
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> L
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> List
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> LoggingContext
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Manifest
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ManifestFactory
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Marshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> MongoClient
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> MongoClientURI
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> MongoCollection
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> MongoDB
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> MongoDBObject
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> None
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Nothing
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Object
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Option
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Out
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Out0
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> P
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> P1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> P2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> P3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> P4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> PathMatcher
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> PathMatcher0
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Predef
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> PrependAux
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Prepender
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Product
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Properties
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> R
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RawHeader
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ReadPreference
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Receive
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RejectionHandler
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RequestContext
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RootJsonFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RootJsonReader
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RootJsonWriter
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Route
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RouteConcatenation
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> RoutingSettings
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> S
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ScalaRunTime
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Serializable
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ServiceActor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ServiceRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Some
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> SprayJsonSupport
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> StandardRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> StaticRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Statics
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> String
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> StringContext
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> StringJsonFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> T
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> T0
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> T1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> T2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> T3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> T4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> That
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ToResponseMarshallable
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ToResponseMarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Tuple2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Tuple3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Tuple4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> TypeImports
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Unit
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Unmarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> WriteConcern
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> WriteResult
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> Y
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> _id
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> _toString
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> actor
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> actorRefFactory
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> address
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> akka
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> any2ArrowAssoc
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> anyHash
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> api
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> apply
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> as
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> asDBObject
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> asInstanceOf
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> asObject
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> author
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> book
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> booksFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> booksReducedFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> canBuildFrom
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> casbah
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> classType
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> client
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> collection
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> com
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> complete
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> conforms
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> context
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ctx
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> db
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> default
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> delete
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> description
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> directives
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> entity
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> envOrElse
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> eq
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> finalizeHash
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> find
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> findAndRemove
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> findOne
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> fromActorRefFactory
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> fromMessageUnmarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> fromRequestUnmarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> get
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> getFromDirectory
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> global
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> grater
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> hac0
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> hac1
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> hnilPrepend
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> http
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> httpx
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> id
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> immutable
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> io
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> isEmpty
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> isInstanceOf
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> isMarshallable
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> java
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> json
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> jsonFormat3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> jsonFormat4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> liftMarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> listFormat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> map
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> marshalling
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> mix
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> mongodb
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> novus
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> package
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> path
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> pathEnd
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> pathPrefix
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> pimpApply
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> pimpRouteWithConcatenation
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> post
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> put
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> reflect
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> require
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> respondWithHeaders
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> routing
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> runRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> runtime
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> s
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> salat
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> scala
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> segmentStringToPathMatcher
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> serviceRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> shapeless
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> spray
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> sprayJsonMarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> sprayJsonUnmarshaller
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> staticRoute
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> technologyconversations
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> title
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> toList
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> toString
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> typedProductIterator
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> unary_!
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> unmarshalling
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> update
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> util
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> wrapDBObj
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$10
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$11
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$12
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$13
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$14
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$15
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$16
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$17
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$2
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$3
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$4
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$5
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$6
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$7
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$8
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> x$9
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ||
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> ~
+product stamps:
+24 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Book$.class -> lastModified(1496624032000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Book.class -> lastModified(1496624032000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/BookReduced$.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/BookReduced.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Service$.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Service$delayedInit$body.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/Service.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceActor.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$1.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1$$anonfun$apply$3.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$1.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$2$$anonfun$apply$5.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$2.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$3$$anonfun$apply$7.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$3.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$4$$anonfun$apply$8.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$$anonfun$4.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute$class.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/ServiceRoute.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/StaticRoute$class.class -> lastModified(1496624033000)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/target/scala-2.10/classes/com/technologyconversations/api/StaticRoute.class -> lastModified(1496624033000)
+source stamps:
+2 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> hash(d4994b45a6ffea75a6abdc3db07c44225ed3d52e)
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> hash(ca2fd942294aea77a55896192297b9f017eb135f)
+binary stamps:
+15 items
+/home/xlpi/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar -> lastModified(1361908259000)
+/home/xlpi/.ivy2/cache/com.novus/salat-core_2.10/jars/salat-core_2.10-1.9.8.jar -> lastModified(1399664890000)
+/home/xlpi/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar -> lastModified(1394021495000)
+/home/xlpi/.ivy2/cache/io.spray/spray-can/bundles/spray-can-1.3.1.jar -> lastModified(1395050056000)
+/home/xlpi/.ivy2/cache/io.spray/spray-http/bundles/spray-http-1.3.1.jar -> lastModified(1395050349000)
+/home/xlpi/.ivy2/cache/io.spray/spray-httpx/bundles/spray-httpx-1.3.1.jar -> lastModified(1395050426000)
+/home/xlpi/.ivy2/cache/io.spray/spray-io/bundles/spray-io-1.3.1.jar -> lastModified(1395050601000)
+/home/xlpi/.ivy2/cache/io.spray/spray-json_2.10/bundles/spray-json_2.10-1.2.6.jar -> lastModified(1397119624000)
+/home/xlpi/.ivy2/cache/io.spray/spray-routing/bundles/spray-routing-1.3.1.jar -> lastModified(1395050193000)
+/home/xlpi/.ivy2/cache/io.spray/spray-util/bundles/spray-util-1.3.1.jar -> lastModified(1395050109000)
+/home/xlpi/.ivy2/cache/org.mongodb/casbah-commons_2.10/jars/casbah-commons_2.10-2.7.2.jar -> lastModified(1400597690000)
+/home/xlpi/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.2.jar -> lastModified(1400597700000)
+/home/xlpi/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.12.2.jar -> lastModified(1400590986000)
+/home/xlpi/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/home/xlpi/jdk1.8.0_112/jre/lib/rt.jar -> lastModified(1474604442000)
+class names:
+15 items
+/home/xlpi/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar -> shapeless.$colon$colon
+/home/xlpi/.ivy2/cache/com.novus/salat-core_2.10/jars/salat-core_2.10-1.9.8.jar -> com.novus.salat.Context
+/home/xlpi/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar -> akka.actor.Actor
+/home/xlpi/.ivy2/cache/io.spray/spray-can/bundles/spray-can-1.3.1.jar -> spray.can.Http$
+/home/xlpi/.ivy2/cache/io.spray/spray-http/bundles/spray-http-1.3.1.jar -> spray.http.HttpHeaders$
+/home/xlpi/.ivy2/cache/io.spray/spray-httpx/bundles/spray-httpx-1.3.1.jar -> spray.httpx.marshalling.Marshaller
+/home/xlpi/.ivy2/cache/io.spray/spray-io/bundles/spray-io-1.3.1.jar -> spray.io.ServerSSLEngineProvider
+/home/xlpi/.ivy2/cache/io.spray/spray-json_2.10/bundles/spray-json_2.10-1.2.6.jar -> spray.json.DefaultJsonProtocol
+/home/xlpi/.ivy2/cache/io.spray/spray-routing/bundles/spray-routing-1.3.1.jar -> spray.routing.HttpService
+/home/xlpi/.ivy2/cache/io.spray/spray-util/bundles/spray-util-1.3.1.jar -> spray.util.LoggingContext$
+/home/xlpi/.ivy2/cache/org.mongodb/casbah-commons_2.10/jars/casbah-commons_2.10-2.7.2.jar -> com.mongodb.casbah.commons.MongoDBObject
+/home/xlpi/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.2.jar -> com.mongodb.casbah.MongoCollectionBase
+/home/xlpi/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.12.2.jar -> com.mongodb.DBObject
+/home/xlpi/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Serializable
+/home/xlpi/jdk1.8.0_112/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTerbWAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHChPrLCdAAGc3lzdGVtdXEAfgAJAAAAGnNxAH4AC4Rfc/p0AAZub3RpZnlzcQB+AAtuJnPGdAAEd2FpdHNxAH4AC1Rwuyl0AA0kYXNJbnN0YW5jZU9mc3EAfgAL5NtVqXQABmVxdWFsc3NxAH4AC3QRIpd0AAxhc0luc3RhbmNlT2ZzcQB+AAu7MV16dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAs9d3PidAAMc3luY2hyb25pemVkc3EAfgALv14riXQADSRpc0luc3RhbmNlT2ZzcQB+AAu22knxdAAEbWFpbnNxAH4AC5dk1R90AAdzZXJ2aWNlc3EAfgALdxZmIHQACW5vdGlmeUFsbHNxAH4AC6Ukgxp0AAxpc0luc3RhbmNlT2ZzcQB+AAubBJxpdAAHU2VydmljZXNxAH4AC4lQ3h90AAI9PXNxAH4ACxtXMZt0AAVjbG9uZXNxAH4AC4X3vot0AAYkaW5pdCRzcQB+AAueAiEIdAAIdG9TdHJpbmdzcQB+AAu0C1nFdAAEYXJnc3NxAH4AC+ctZXJ0AAIhPXNxAH4AC6jN33V0AAhnZXRDbGFzc3NxAH4AC9S1jK10AAJuZXNxAH4AC8nEGI90AAJlcXNxAH4ACwC7TiV0AAtkZWxheWVkSW5pdHNxAH4AC0VoarJ0AAIjI3NxAH4ACzSGRHt0AAhmaW5hbGl6ZXNxAH4AC4A3fJp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACdjb20udGVjaG5vbG9neWNvbnZlcnNhdGlvbnMuYXBpLlNlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBqc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4ASAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATnEAfgBXdXEAfgBYAAAAAHNxAH4AWgBxAH4AIXVxAH4AXQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AHR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGB0AAVQbGFpbnEAfgAzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgB6dAAFQXJyYXlxAH4AgHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB6dAAGU3RyaW5nc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AARsYW5ncQB+AItzcQB+AGV1cQB+AJ4AAAAEc3EAfgB6dAADQXBwcQB+AIBzcQB+AHp0AAtEZWxheWVkSW5pdHEAfgCAc3EAfgB6dAAGT2JqZWN0cQB+AKJzcQB+AHp0AANBbnlxAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAA2NvbXNxAH4AtXQAG2NvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9uc3NxAH4AtXQAH2NvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9ucy5hcGlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVx1vkVmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUC9tZWRpYS94bHBpL3NzZEQvUHJqU2NhbGEvZGF0YXJvb3QvZG9ja2VyRnVuL3Rlc3QtYm9vay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1JlLRab/6nWmq9w9sHxEIl7T1S4=
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEFhREQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAADRzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBq7lFRdAAacGltcFJvdXRlV2l0aENvbmNhdGVuYXRpb25zcQB+AAuR2MdwdAAOVW5pdEpzb25Gb3JtYXRzcQB+AAuCgYO1dAAKbGlzdEZvcm1hdHNxAH4ACy534Bt0ABpzZWdtZW50U3RyaW5nVG9QYXRoTWF0Y2hlcnNxAH4AC8AhHbR0AAx2ZWN0b3JGb3JtYXRzcQB+AAtIb/KydAAPYWN0b3JSZWZGYWN0b3J5c3EAfgALGLFwSHQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC/d19rt0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC8MralV0AAlzZXRGb3JtYXRzcQB+AAtSyOhddAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAuS0F4ydAAHY29udGV4dHNxAH4ACxRP2lx0AA1Kc1ZhbHVlRm9ybWF0c3EAfgAL4n3vqHQACXN0cmluZzJOUnNxAH4AC9+IA2N0AA5Mb25nSnNvbkZvcm1hdHNxAH4AC44HftZ0AAx0dXBsZTFGb3JtYXRzcQB+AAtwpKE8dAAJc3ltYm9sMk5Sc3EAfgALFOTkznQABHNlbGZzcQB+AAvh6jWmdAAQaW5kZXhlZFNlcUZvcm1hdHNxAH4AC38z+CR0AAxvcHRpb25Gb3JtYXRzcQB+AAtssqyRdAAPbGluZWFyU2VxRm9ybWF0c3EAfgALGRAzTnQAEFN5bWJvbEpzb25Gb3JtYXRzcQB+AAvDV3O6dAAMdHVwbGU1Rm9ybWF0c3EAfgAL8ibj/XQAIHN0cmluZ0V4dHJhY3Rpb25QYWlyMlBhdGhNYXRjaGVyc3EAfgALJ/PZpHQADHR1cGxlM0Zvcm1hdHNxAH4AC8ee/Ll0ABJpbW1MaW5lYXJTZXFGb3JtYXRzcQB+AAsbbpQ7dAAMdHVwbGU3Rm9ybWF0c3EAfgAL35I2L3QADGltbVNldEZvcm1hdHNxAH4AC7UdLwB0AAxlaXRoZXJGb3JtYXRzcQB+AAsegVjOdAAUdmFsdWVNYXAyUGF0aE1hdGNoZXJzcQB+AAunVovKdAAOQ2hhckpzb25Gb3JtYXRzcQB+AAu3i+x2dAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAt0T34vdAAPU2hvcnRKc29uRm9ybWF0c3EAfgAL4B/M5HQADHR1cGxlNkZvcm1hdHNxAH4AC0AdmXd0AAtib29rc0Zvcm1hdHNxAH4AC6ApYi90ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALXO5I33QAC2FycmF5Rm9ybWF0c3EAfgALwMIzwnQAEmJvb2tzUmVkdWNlZEZvcm1hdHNxAH4AC8vXCQN0ABFpbW1JdGVyYWJsZUZvcm1hdHNxAH4AC2MtADN0AA5CeXRlSnNvbkZvcm1hdHNxAH4AC9Vd7Mx0AAx0dXBsZTJGb3JtYXRzcQB+AAvp/9V1dAATaW1tSW5kZXhlZFNlcUZvcm1hdHNxAH4AC+yvrp50ACZzdHJpbmdPcHRpb25OYW1lUmVjZXB0YWNsZTJQYXRoTWF0Y2hlcnNxAH4AC57Gd3p0AAxpbW1TZXFGb3JtYXRzcQB+AAtB9lKHdAAMdHVwbGU0Rm9ybWF0c3EAfgALdgNQEnQAD0Zsb2F0SnNvbkZvcm1hdHNxAH4ACyT1Frh0AA5pdGVyYWJsZUZvcm1hdHNxAH4AC+bhFFl0AA1JbnRKc29uRm9ybWF0c3EAfgAL59R8HHQAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAubb1jXdAAJbWFwRm9ybWF0c3EAfgALpQDfRnQAEXJlZ2V4MlBhdGhNYXRjaGVyc3EAfgALgx1jgHQACXNlcUZvcm1hdHNxAH4AC+9vHph0ABBCaWdJbnRKc29uRm9ybWF0dXEAfgAJAAABB3NxAH4ACxTqvQF0AAlmb3JtRmllbGRzcQB+AAsgTsZrdAAIY2xpZW50SVBzcQB+AAsskvaHdAAQd2l0aFJhbmdlU3VwcG9ydHNxAH4AC5SMuQ50ABJyb3V0ZVJvdXRlUmVzcG9uc2VzcQB+AAtZayG5dAAUcGF0aEVuZE9yU2luZ2xlU2xhc2hzcQB+AAur/cN5dAAGbm90aWZ5c3EAfgALQ4ZNS3QACUludE51bWJlcnNxAH4AC0jQFkt0AARyZWFkc3EAfgALPOlmIXQACWZyb21GaWVsZHNxAH4AC0GW9qB0AA9wYXRoU2luZ2xlU2xhc2hzcQB+AAsZoANodAALanNvbkZvcm1hdDlzcQB+AAvuUvVrdAAHcHJvZHVjZXNxAH4AC0BBNS10AAdSZWNlaXZlc3EAfgALghz4fXQAGHJlc3BvbnNlRW5jb2RpbmdBY2NlcHRlZHNxAH4ACwL37Ap0AAZtZXRob2RzcQB+AAuCnyi7dAAEcG9zdHNxAH4AC8oOc0J0AAZhdXRob3JzcQB+AAtiV+EndAAdcmVzcG9uZFdpdGhMYXN0TW9kaWZpZWRIZWFkZXJzcQB+AAuJFJu/dAAManNvbkZvcm1hdDE2c3EAfgAL1WnQo3QAEWhlYWRlclZhbHVlQnlOYW1lc3EAfgALXHu2E3QAD3JlcXVlc3RJbnN0YW5jZXNxAH4AC+rAGrh0ABtjb21wcmVzc1Jlc3BvbnNlSWZSZXF1ZXN0ZWRzcQB+AAvAEZEqdAAVb3B0aW9uYWxIZWFkZXJWYWx1ZVBGc3EAfgAL42xR/HQAB29mVHlwZXNzcQB+AAtuS8xwdAAManNvbkZvcm1hdDIwc3EAfgALNr4rpXQACXBhcmFtZXRlcnNxAH4AC24IizB0ABJyZXNwb25kV2l0aEhlYWRlcnNzcQB+AAtekwB/dAASbWFwUm91dGVSZXNwb25zZVBGc3EAfgALlvkYh3QABHdhaXRzcQB+AAsSg0IpdAASbG9nUmVxdWVzdFJlc3BvbnNlc3EAfgALXUxa4XQACmxhenlGb3JtYXRzcQB+AAv1Ss/XdAAOY29weSRkZWZhdWx0JDJzcQB+AAuP3rsddAAVbGlzdERpcmVjdG9yeUNvbnRlbnRzc3EAfgAL+CQY8XQADSRhc0luc3RhbmNlT2ZzcQB+AAueci57dAAManNvbkZvcm1hdDEyc3EAfgALt2nsOHQADGpzb25Gb3JtYXQxM3NxAH4ACyJhtad0AARwYXRoc3EAfgALyEv0snQACmNvbGxlY3Rpb25zcQB+AAsU2aiTdAAPbWFwSHR0cFJlc3BvbnNlc3EAfgALeqKOy3QAC2pzb25Gb3JtYXQyc3EAfgALWnBGxXQACmluc3RhbmNlT2ZzcQB+AAssnJxmdAAHTmV1dHJhbHNxAH4AC57AEAd0AA9hY3RvclJlZkZhY3RvcnlzcQB+AAsHIIiGdAAHY29tcG9zZXNxAH4AC+OhUQZ0AAhyZWRpcmVjdHNxAH4AC0Akd+V0AAlzZWFsUm91dGVzcQB+AAvdA4NcdAAScmVxdWVzdEVudGl0eUVtcHR5c3EAfgALglKS3XQADWhlYWRlclZhbHVlUEZzcQB+AAt19NoZdAAMdGltZW91dFJvdXRlc3EAfgAL3Nkk/nQAB1BhdGhFbmRzcQB+AAv0zDYidAAPZnJvbURlY2ltYWxDaGFyc3EAfgALXNzTTHQADHByb2R1Y3RBcml0eXNxAH4AC9mxO2N0AAZlcXVhbHNzcQB+AAsb+QJ8dAALanNvbkZvcm1hdDZzcQB+AAucz8cTdAAIaGV4dHJhY3RzcQB+AAv1GyXqdAAWbWFwSHR0cFJlc3BvbnNlSGVhZGVyc3NxAH4AC0/D4010AAhtaW51c09uZXNxAH4AC8UHEFp0ABFyYXdQYXRoUHJlZml4VGVzdHNxAH4AC7A1gMZ0AAtkZXNjcmlwdGlvbnNxAH4AC2t0fB10ABhnZXRGcm9tUmVzb3VyY2VEaXJlY3RvcnlzcQB+AAvuq3p2dAATb3B0aW9uYWxIZWFkZXJWYWx1ZXNxAH4AC7Teidp0ABBnZXRGcm9tRGlyZWN0b3J5c3EAfgALVawf33QAA19pZHNxAH4AC6AUO490AAptYXhEaXZCYXNlc3EAfgALjrcCeXQACWFueVBhcmFtc3NxAH4ACz4gjjF0AARoZWFkc3EAfgALqKyG+nQADGFzSW5zdGFuY2VPZnNxAH4ACyAz1Bd0ABBoYW5kbGVSZWplY3Rpb25zc3EAfgALMOOFn3QACnBhdGhQcmVmaXhzcQB+AAvXawsXdAANSGV4TG9uZ051bWJlcnNxAH4ACx1N0eB0AAxqc29uRm9ybWF0MTVzcQB+AAvW55u4dAACSkZzcQB+AAupumDudAAMSGV4SW50TnVtYmVyc3EAfgALsojmE3QABGhvc3RzcQB+AAtciNeMdAAQY29tcHJlc3NSZXNwb25zZXNxAH4AC40UJHV0AAxwYXJhbWV0ZXJNYXBzcQB+AAuNrXmidAAHdmlhTGlzdHNxAH4AC28MQK50AApMb25nTnVtYmVyc3EAfgAL9OmcQ3QACHZhbGlkYXRlc3EAfgALQvMXinQADHN5bmNocm9uaXplZHNxAH4ACzL9T0l0ABNyZWplY3RFbXB0eVJlc3BvbnNlc3EAfgALUYr3qXQAEmF1dG9DaHVua0ZpbGVCeXRlc3NxAH4AC479A4d0AAhmcm9tQ2hhcnNxAH4AC65Lf7V0AAd1bmFyeV8hc3EAfgALu56v6HQABm9mVHlwZXNxAH4AC7Cttr50AA9nZXRGcm9tUmVzb3VyY2VzcQB+AAuRGwX7dAAScmVxdWVzdEVuY29kZWRXaXRoc3EAfgALTlLx+XQAAmRic3EAfgALoX6FpXQADGpzb25Gb3JtYXQxMXNxAH4AC3lhwZ90AA0kaXNJbnN0YW5jZU9mc3EAfgALJ0JcR3QAD2NhbmNlbFJlamVjdGlvbnNxAH4ACyVf6qV0ABNjYW5jZWxBbGxSZWplY3Rpb25zc3EAfgAL7wRHfnQAC2pzb25Gb3JtYXQ1c3EAfgALyeT4THQAB2FuZFRoZW5zcQB+AAvDtUzcdAAManNvbkZvcm1hdDIxc3EAfgALwVRV83QAB3JlY2VpdmVzcQB+AAtipz/LdAAUcHJvZHVjdEVsZW1lbnQyRmllbGRzcQB+AAtsoDI8dAAKcHJlUmVzdGFydHNxAH4AC1RxJX90AApyb290Rm9ybWF0c3EAfgALqHkHl3QAEHJlcGVhdCRkZWZhdWx0JDFzcQB+AAsvT6hLdAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALXcyXLnQADGRlbGV0ZUNvb2tpZXNxAH4ACzyKHBh0AAJhc3NxAH4AC3nkRBR0AAhob3N0TmFtZXNxAH4ACwZ+/kR0AARSZXN0c3EAfgALRMNo+nQADGpzb25Gb3JtYXQxNHNxAH4AC+3+jqh0AAxTZXJ2aWNlQWN0b3JzcQB+AAsbaB9TdAANYXJvdW5kUmVjZWl2ZXNxAH4ACzRxehF0ABFyZXNwb25kV2l0aFN0YXR1c3NxAH4AC7bHkOV0AAhydW5Sb3V0ZXNxAH4AC0loUUJ0AAF8c3EAfgALvgDcHHQACWF1dG9DaHVua3NxAH4AC87CXm10AAhjYW5FcXVhbHNxAH4AC3P2r1Z0AAtqc29uRm9ybWF0MXNxAH4AC/B3M2R0ABZkZWxldGVDb29raWUkZGVmYXVsdCQzc3EAfgALlgFXOXQADnJvb3RKc29uRm9ybWF0c3EAfgALY8KPaXQAC3Bvc3RSZXN0YXJ0c3EAfgAL8/u+bnQAFHJlcXVlc3RFbnRpdHlQcmVzZW50c3EAfgALy6Hm1XQADmNvcHkkZGVmYXVsdCQ0c3EAfgALaZUEM3QADmVuY29kZVJlc3BvbnNlc3EAfgALVnnoK3QAC2xvZ1Jlc3BvbnNlc3EAfgALQJgxLXQACHBvc3RTdG9wc3EAfgALH/POOnQAB3Byb3ZpZGVzcQB+AAt0d6T+dAANcHJvZHVjdFByZWZpeHNxAH4AC+lg1NN0AARobWFwc3EAfgAL1GVet3QABnJlamVjdHNxAH4AC9v7Sv10AAxqc29uRm9ybWF0MTlzcQB+AAtkbB9qdAAJbm90aWZ5QWxsc3EAfgALfH1zDXQAG3Jlc3BvbmRXaXRoU2luZ2xldG9uSGVhZGVyc3NxAH4AC01hf910ABpnZXRGcm9tQnJvd3NlYWJsZURpcmVjdG9yeXNxAH4AC2hWzB50ABRzZWFsUmVqZWN0aW9uSGFuZGxlcnNxAH4AC08Qpq90AAhkZWxlZ2F0ZXNxAH4AC5GgjXV0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC73rs4F0AAtjb25kaXRpb25hbHNxAH4ACyxtsKJ0AAZkZXRhY2hzcQB+AAv/8mZMdAAZb3B0aW9uYWxIZWFkZXJWYWx1ZUJ5TmFtZXNxAH4ACyLvvYd0AAxpc0luc3RhbmNlT2ZzcQB+AAusPJ+KdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC/naAtt0AAdwYXRoRW5kc3EAfgALEhOw/nQADXJhd1BhdGhQcmVmaXhzcQB+AAsNPTj1dAAHb3B0aW9uc3NxAH4AC5cs3pd0AA5hcm91bmRQb3N0U3RvcHNxAH4AC/GcBFd0ABFkZWNvbXByZXNzUmVxdWVzdHNxAH4AC1oOVGN0AAptYXBSZXF1ZXN0c3EAfgALWql4lXQABG5vb3BzcQB+AAub5XUudAAJb25TdWNjZXNzc3EAfgALnSanFnQACGZhaWxXaXRoc3EAfgALA3ztCXQABEJvb2tzcQB+AAu+JgqkdAAGPGluaXQ+c3EAfgALM9a/h3QAC2dldEZyb21GaWxlc3EAfgALLftS03QACHByZVN0YXJ0c3EAfgALyx5SAXQAC1N0YXRpY1JvdXRlc3EAfgALfkpvLHQADW1hcElubmVyUm91dGVzcQB+AAvRPHG4dAAacmVzcG9uZFdpdGhTaW5nbGV0b25IZWFkZXJzcQB+AAvIPgimdAAJdW5oYW5kbGVkc3EAfgALtbd6YHQAB1NlZ21lbnRzcQB+AAsW4E9DdAAIY29tcGxldGVzcQB+AAu6nrjWdAAFYXBwbHlzcQB+AAvuLMqodAARbWFwUmVxdWVzdENvbnRleHRzcQB+AAskF0qydAAOcGF0aFByZWZpeFRlc3RzcQB+AAsr2h5rdAAcZ2V0RnJvbUJyb3dzZWFibGVEaXJlY3Rvcmllc3NxAH4AC1GorvB0AAtqc29uRm9ybWF0NHNxAH4ACzwpi3B0AA11bm1hdGNoZWRQYXRoc3EAfgALPe84GXQADHBhcmFtZXRlclNlcXNxAH4AC6RtypB0AA5vcHRpb25hbENvb2tpZXNxAH4AC762Ont0AAI9PXNxAH4AC3YdwvF0ABloYW5kbGVVbmhhbmRsZWRSZWplY3Rpb25zc3EAfgALdwJ1KnQABnNjaGVtZXNxAH4ACyupD4h0AAZjb29raWVzcQB+AAsirJ9jdAAFU2xhc2hzcQB+AAsyKxB3dAAFY2xvbmVzcQB+AAsqudcPdAAJYXV0aG9yaXplc3EAfgALaXx0OHQAFHJld3JpdGVVbm1hdGNoZWRQYXRoc3EAfgALD2F6uXQABmNsaWVudHNxAH4AC2GyMPF0AAxqc29uRm9ybWF0MTBzcQB+AAudtnkfdAALaGVhZGVyVmFsdWVzcQB+AAsiHsV6dAAManNvbkZvcm1hdDIyc3EAfgALr9FB4XQACmhhbmRsZVdpdGhzcQB+AAtvqfJodAAMU2VydmljZVJvdXRlc3EAfgALU8pMtHQABmRlbGV0ZXNxAH4ACzMxo9N0AAxPcHRpb25Gb3JtYXRzcQB+AAvbDORldAAIaHByb3ZpZGVzcQB+AAuvlUB0dAAManNvbkZvcm1hdDE4c3EAfgALPzvYLnQABiRpbml0JHNxAH4AC0S2jel0ABZkZWxldGVDb29raWUkZGVmYXVsdCQyc3EAfgALblxkO3QAFHJlc3BvbmRXaXRoTWVkaWFUeXBlc3EAfgALJvMHZ3QABmVudGl0eXNxAH4AC1neW6J0AAlzZXRDb29raWVzcQB+AAuHH1vvdAAEcGFzc3NxAH4AC3fi6S10ABJvbkNvbm5lY3Rpb25DbG9zZWRzcQB+AAuAdXC2dAAQbWFwUm91dGVSZXNwb25zZXNxAH4ACzaR5ol0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC6jYdbx0AAdhZGRyZXNzc3EAfgALfWrpEXQABGNvcHlzcQB+AAtpJWLwdAALQm9va1JlZHVjZWRzcQB+AAtTs5TMdAADcHV0c3EAfgAL7P77/HQAEXBhcmFtZXRlck11bHRpTWFwc3EAfgAL5UAvR3QABnNlbmRlcnNxAH4AC8ZNlk50AAxhdXRoZW50aWNhdGVzcQB+AAsqfmoDdAAIdG9TdHJpbmdzcQB+AAtGPbWfdAATbWFwSHR0cFJlc3BvbnNlUGFydHNxAH4AC2m9E+l0AApzY2hlbWVOYW1lc3EAfgALhW/sGHQAG292ZXJyaWRlTWV0aG9kV2l0aFBhcmFtZXRlcnNxAH4AC3+1mid0AAhTZWdtZW50c3NxAH4ACxqYUzZ0AApqc29uRm9ybWF0c3EAfgALfP49S3QAFW1hcEh0dHBSZXNwb25zZUVudGl0eXNxAH4ACxvjvcl0AAIhPXNxAH4AC6JTgll0AAtqc29uRm9ybWF0OHNxAH4ACzIkFI50AANnZXRzcQB+AAtkfzgSdAAOcGF0aFN1ZmZpeFRlc3RzcQB+AAsZFO3CdAAIZ2V0Q2xhc3NzcQB+AAuFOeQ4dAAGcmVwZWF0c3EAfgALki0tSnQABXRpdGxlc3EAfgAL24W4G3QADmNvcHkkZGVmYXVsdCQxc3EAfgAL/4bmhHQAEWhlYWRlclZhbHVlQnlUeXBlc3EAfgALdhdz3XQAEGhhbmRsZUV4Y2VwdGlvbnNzcQB+AAte7P3EdAASanNvbnBXaXRoUGFyYW1ldGVyc3EAfgALepCJp3QACnBhdGhTdWZmaXhzcQB+AAvx8uI+dAAKb25Db21wbGV0ZXNxAH4AC9d+rkN0AAVwYXRjaHNxAH4AC5/zwJx0AAlvbkZhaWx1cmVzcQB+AAs2Go7idAAISmF2YVVVSURzcQB+AAsPr0AWdAAKbG9nUmVxdWVzdHNxAH4AC4hNKLx0AAhhbnlQYXJhbXNxAH4ACz0vQ+10AAhSZXN0UGF0aHNxAH4AC01mhuJ0AAJuZXNxAH4AC8Gv4Sd0AA1tYXBSZWplY3Rpb25zc3EAfgAL/Ab1V3QAElJvdXRlQ29uY2F0ZW5hdGlvbnNxAH4AC7wm/NN0AApmb3JtRmllbGRzc3EAfgAL0Ii+y3QACXRyYW5zZm9ybXNxAH4AC+LbuU10AApwYXJhbWV0ZXJzc3EAfgALN5ouT3QACnJlcXVlc3RVcmlzcQB+AAup1ZpAdAABfnNxAH4AC3fGZt90AARsaWZ0c3EAfgALpkwV7XQACGhmbGF0TWFwc3EAfgAL1zJOWHQADU51bWJlck1hdGNoZXJzcQB+AAtJzXz6dAALanNvbkZvcm1hdDNzcQB+AAszKl6vdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL7yYhUnQACWR5bmFtaWNJZnNxAH4ACyrSSPB0AAJlcXNxAH4AC7qGSAl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAtlIuhydAAFd3JpdGVzcQB+AAt0v8+CdAAMRG91YmxlTnVtYmVyc3EAfgALobggKXQAAS9zcQB+AAvwsLxpdAALUGF0aEVsZW1lbnRzcQB+AAv0kZGJdAAKc2FmZVJlYWRlcnNxAH4ACxyvFvZ0AA1kZWNvZGVSZXF1ZXN0c3EAfgALAjJmFXQADHNlcnZpY2VSb3V0ZXNxAH4AC5eEpAx0ABFyZXNwb25kV2l0aEhlYWRlcnNxAH4AC0eD4e90AAIjI3NxAH4AC95G9090AAhmaW5hbGl6ZXNxAH4AC6eOPBB0AAdleHRyYWN0c3EAfgALbInuDHQADnByb2R1Y3RFbGVtZW50c3EAfgAL5vQEVHQACGhhc2hDb2Rlc3EAfgALm/vX8HQAEWV4dHJhY3RGaWVsZE5hbWVzc3EAfgAL5u2TVnQAC2Zyb21IZXhDaGFyc3EAfgALuFgap3QAB2R5bmFtaWNzcQB+AAtHeF7BdAAManNvbkZvcm1hdDE3c3EAfgALzZdT53QADmFyb3VuZFByZVN0YXJ0c3EAfgALb+9ezXQAC3N0YXRpY1JvdXRlc3EAfgAL2dKHBXQAGW9wdGlvbmFsSGVhZGVyVmFsdWVCeVR5cGVzcQB+AAtycWFBdAALanNvbkZvcm1hdDdzcQB+AAv4Yk7kdAARc2VwYXJhdGVPblNsYXNoZXNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgKNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAArY29tLnRlY2hub2xvZ3ljb252ZXJzYXRpb25zLmFwaS5Cb29rUmVkdWNlZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgKlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Ao1MAAlpbmhlcml0ZWRxAH4CjUwAB3BhcmVudHNxAH4CjXhxAH4CqnNxAH4CpXVxAH4CiAAAAABzcQB+AqV1cQB+AogAAAAAc3EAfgKldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgKpdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgKpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgLDc3EAfgK2cQB+ArlzcQB+ArpzcQB+Ar11cQB+AsAAAAADc3EAfgLCdAAEamF2YXNxAH4CwnQAAmlvcQB+AsdzcQB+ArZ0AAdQcm9kdWN0cQB+ArxzcQB+ArZ0AAZFcXVhbHNxAH4CvHNxAH4CtnQABk9iamVjdHNxAH4CunNxAH4CvXVxAH4CwAAAAANzcQB+AsJxAH4CzXNxAH4CwnQABGxhbmdxAH4Cx3NxAH4CtnQAA0FueXEAfgK8c3EAfgKKcQB+Apd1cQB+ApgAAAAAc3EAfgKaAHQAJGNvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9ucy5hcGkuQm9va3VxAH4CnQAAAABxAH4CoXVxAH4CowAAAABzcQB+AqVxAH4Cq3NxAH4CpXNxAH4CrXNxAH4CpXVxAH4CiAAAAABzcQB+AqV1cQB+AogAAAAAc3EAfgKldXEAfgK0AAAABnNxAH4CtnEAfgK5c3EAfgK6c3EAfgK9dXEAfgLAAAAAAnNxAH4CwnEAfgLFcQB+AsdzcQB+ArZxAH4CuXNxAH4CunNxAH4CvXVxAH4CwAAAAANzcQB+AsJxAH4CzXNxAH4CwnQAAmlvcQB+AsdzcQB+ArZxAH4C0XEAfgLuc3EAfgK2dAAGRXF1YWxzcQB+Au5zcQB+ArZxAH4C1XNxAH4CunNxAH4CvXVxAH4CwAAAAANzcQB+AsJxAH4CzXNxAH4CwnEAfgLbcQB+AsdzcQB+ArZxAH4C3XEAfgLuc3EAfgKKcQB+Apd1cQB+ApgAAAAAc3EAfgKaAHQALGNvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9ucy5hcGkuU2VydmljZUFjdG9ydXEAfgKdAAAAAHEAfgKhdXEAfgKjAAAAAXQAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+AqVxAH4Cq3NxAH4CpXNxAH4CrXNxAH4CpXVxAH4CiAAAAABzcQB+AqV1cQB+AogAAAAAc3EAfgKldXEAfgK0AAAAKnNxAH4CtnQAC1N0YXRpY1JvdXRlc3EAfgK6c3EAfgK9dXEAfgLAAAAABHNxAH4CwnQAA2NvbXNxAH4CwnQAF3RlY2hub2xvZ3ljb252ZXJzYXRpb25zc3EAfgLCdAADYXBpcQB+AsdzcQB+ArZ0AAxTZXJ2aWNlUm91dGVxAH4DFXNxAH4CtnQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ArpzcQB+Ar11cQB+AsAAAAADc3EAfgLCdAAFc3ByYXlzcQB+AsJ0AARqc29ucQB+AsdzcQB+ArZ0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgMic3EAfgK2dAAOUHJvZHVjdEZvcm1hdHNxAH4DInNxAH4CtnQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AyJzcQB+ArZ0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgMic3EAfgK2dAAPU3RhbmRhcmRGb3JtYXRzcQB+AyJzcQB+ArZ0AAxCYXNpY0Zvcm1hdHNxAH4DInNxAH4CtnQAC0h0dHBTZXJ2aWNlc3EAfgK6c3EAfgK9dXEAfgLAAAAAA3NxAH4CwnQABXNwcmF5c3EAfgLCdAAHcm91dGluZ3EAfgLHc3EAfgK2dAAPSHR0cFNlcnZpY2VCYXNlcQB+AzdzcQB+ArZ0AApEaXJlY3RpdmVzcQB+AzdzcQB+ArZ0ABJTZWN1cml0eURpcmVjdGl2ZXNzcQB+ArpzcQB+Ar11cQB+AsAAAAAEc3EAfgLCdAAFc3ByYXlzcQB+AsJ0AAdyb3V0aW5nc3EAfgLCdAAKZGlyZWN0aXZlc3EAfgLHc3EAfgK2dAAQU2NoZW1lRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAAPUm91dGVEaXJlY3RpdmVzcQB+A0RzcQB+ArZ0ABVSZXNwb25kV2l0aERpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAD1JhbmdlRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAAOUGF0aERpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAH0ltcGxpY2l0UGF0aE1hdGNoZXJDb25zdHJ1Y3Rpb25xAH4DN3NxAH4CtnQADFBhdGhNYXRjaGVyc3EAfgM3c3EAfgK2dAATUGFyYW1ldGVyRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAAOTWlzY0RpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAEE1ldGhvZERpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAFU1hcnNoYWxsaW5nRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAAOSG9zdERpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAEEhlYWRlckRpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAEEZ1dHVyZURpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAE0Zvcm1GaWVsZERpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAFVRvTmFtZVJlY2VwdGFjbGVQaW1wc3EAfgNEc3EAfgK2dAAZRmlsZUFuZFJlc291cmNlRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAATRXhlY3V0aW9uRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAASRW5jb2RpbmdEaXJlY3RpdmVzcQB+A0RzcQB+ArZ0ABNEZWJ1Z2dpbmdEaXJlY3RpdmVzcQB+A0RzcQB+ArZ0ABBDb29raWVEaXJlY3RpdmVzcQB+A0RzcQB+ArZ0ABJDaHVua2luZ0RpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAGENhY2hlQ29uZGl0aW9uRGlyZWN0aXZlc3EAfgNEc3EAfgK2dAAPQmFzaWNEaXJlY3RpdmVzcQB+A0RzcQB+ArZ0ABJBbnlQYXJhbURpcmVjdGl2ZXNxAH4DRHNxAH4CtnQAElJvdXRlQ29uY2F0ZW5hdGlvbnEAfgM3c3EAfgK2dAAFQWN0b3JzcQB+ArpzcQB+Ar11cQB+AsAAAAADc3EAfgLCdAAEYWtrYXNxAH4CwnQABWFjdG9ycQB+AsdzcQB+ArZxAH4C1XNxAH4CunNxAH4CvXVxAH4CwAAAAANzcQB+AsJxAH4CzXNxAH4CwnEAfgLbcQB+AsdzcQB+ArZxAH4C3XNxAH4CunNxAH4CvXVxAH4CwAAAAAJzcQB+AsJxAH4CxXEAfgLHc3EAfgKKcQB+Apd1cQB+ApgAAAAAc3EAfgKaAXQAK2NvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9ucy5hcGkuU3RhdGljUm91dGV1cQB+Ap0AAAAAfnEAfgKfdAAFVHJhaXR1cQB+AqMAAAABdAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4CpXEAfgKrc3EAfgKlc3EAfgKtc3EAfgKldXEAfgKIAAAAAHNxAH4CpXVxAH4CiAAAAABzcQB+AqV1cQB+ArQAAAAgc3EAfgK2dAALSHR0cFNlcnZpY2VzcQB+ArpzcQB+Ar11cQB+AsAAAAADc3EAfgLCdAAFc3ByYXlzcQB+AsJ0AAdyb3V0aW5ncQB+AsdzcQB+ArZ0AA9IdHRwU2VydmljZUJhc2VxAH4DqXNxAH4CtnQACkRpcmVjdGl2ZXNxAH4DqXNxAH4CtnQAElNlY3VyaXR5RGlyZWN0aXZlc3NxAH4CunNxAH4CvXVxAH4CwAAAAARzcQB+AsJ0AAVzcHJheXNxAH4CwnQAB3JvdXRpbmdzcQB+AsJ0AApkaXJlY3RpdmVzcQB+AsdzcQB+ArZ0ABBTY2hlbWVEaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0AA9Sb3V0ZURpcmVjdGl2ZXNxAH4DtnNxAH4CtnQAFVJlc3BvbmRXaXRoRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAPUmFuZ2VEaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0AA5QYXRoRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAfSW1wbGljaXRQYXRoTWF0Y2hlckNvbnN0cnVjdGlvbnEAfgOpc3EAfgK2dAAMUGF0aE1hdGNoZXJzcQB+A6lzcQB+ArZ0ABNQYXJhbWV0ZXJEaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0AA5NaXNjRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAQTWV0aG9kRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAVTWFyc2hhbGxpbmdEaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0AA5Ib3N0RGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAQSGVhZGVyRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAQRnV0dXJlRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAATRm9ybUZpZWxkRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAVVG9OYW1lUmVjZXB0YWNsZVBpbXBzcQB+A7ZzcQB+ArZ0ABlGaWxlQW5kUmVzb3VyY2VEaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0ABNFeGVjdXRpb25EaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0ABJFbmNvZGluZ0RpcmVjdGl2ZXNxAH4DtnNxAH4CtnQAE0RlYnVnZ2luZ0RpcmVjdGl2ZXNxAH4DtnNxAH4CtnQAEENvb2tpZURpcmVjdGl2ZXNxAH4DtnNxAH4CtnQAEkNodW5raW5nRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAAYQ2FjaGVDb25kaXRpb25EaXJlY3RpdmVzcQB+A7ZzcQB+ArZ0AA9CYXNpY0RpcmVjdGl2ZXNxAH4DtnNxAH4CtnQAEkFueVBhcmFtRGlyZWN0aXZlc3EAfgO2c3EAfgK2dAASUm91dGVDb25jYXRlbmF0aW9ucQB+A6lzcQB+ArZxAH4C1XNxAH4CunNxAH4CvXVxAH4CwAAAAANzcQB+AsJxAH4CzXNxAH4CwnEAfgLbcQB+AsdzcQB+ArZxAH4C3XNxAH4CunNxAH4CvXVxAH4CwAAAAAJzcQB+AsJxAH4CxXEAfgLHc3EAfgKKcQB+Apd1cQB+ApgAAAAAc3EAfgKaAXQALGNvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9ucy5hcGkuU2VydmljZVJvdXRldXEAfgKdAAAAAHEAfgOadXEAfgKjAAAAAXQAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+AqVxAH4Cq3NxAH4CpXNxAH4CrXNxAH4CpXVxAH4CiAAAAABzcQB+AqV1cQB+AogAAAAAc3EAfgKldXEAfgK0AAAAJ3NxAH4CtnQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ArpzcQB+Ar11cQB+AsAAAAADc3EAfgLCdAAFc3ByYXlzcQB+AsJ0AARqc29ucQB+AsdzcQB+ArZ0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgQQc3EAfgK2dAAOUHJvZHVjdEZvcm1hdHNxAH4EEHNxAH4CtnQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+BBBzcQB+ArZ0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgQQc3EAfgK2dAAPU3RhbmRhcmRGb3JtYXRzcQB+BBBzcQB+ArZ0AAxCYXNpY0Zvcm1hdHNxAH4EEHNxAH4CtnQAC0h0dHBTZXJ2aWNlc3EAfgK6c3EAfgK9dXEAfgLAAAAAA3NxAH4CwnQABXNwcmF5c3EAfgLCdAAHcm91dGluZ3EAfgLHc3EAfgK2dAAPSHR0cFNlcnZpY2VCYXNlcQB+BCVzcQB+ArZ0AApEaXJlY3RpdmVzcQB+BCVzcQB+ArZ0ABJTZWN1cml0eURpcmVjdGl2ZXNzcQB+ArpzcQB+Ar11cQB+AsAAAAAEc3EAfgLCdAAFc3ByYXlzcQB+AsJ0AAdyb3V0aW5nc3EAfgLCdAAKZGlyZWN0aXZlc3EAfgLHc3EAfgK2dAAQU2NoZW1lRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAAPUm91dGVEaXJlY3RpdmVzcQB+BDJzcQB+ArZ0ABVSZXNwb25kV2l0aERpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAD1JhbmdlRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAAOUGF0aERpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAH0ltcGxpY2l0UGF0aE1hdGNoZXJDb25zdHJ1Y3Rpb25xAH4EJXNxAH4CtnQADFBhdGhNYXRjaGVyc3EAfgQlc3EAfgK2dAATUGFyYW1ldGVyRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAAOTWlzY0RpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAEE1ldGhvZERpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAFU1hcnNoYWxsaW5nRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAAOSG9zdERpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAEEhlYWRlckRpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAEEZ1dHVyZURpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAE0Zvcm1GaWVsZERpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAFVRvTmFtZVJlY2VwdGFjbGVQaW1wc3EAfgQyc3EAfgK2dAAZRmlsZUFuZFJlc291cmNlRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAATRXhlY3V0aW9uRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAASRW5jb2RpbmdEaXJlY3RpdmVzcQB+BDJzcQB+ArZ0ABNEZWJ1Z2dpbmdEaXJlY3RpdmVzcQB+BDJzcQB+ArZ0ABBDb29raWVEaXJlY3RpdmVzcQB+BDJzcQB+ArZ0ABJDaHVua2luZ0RpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAGENhY2hlQ29uZGl0aW9uRGlyZWN0aXZlc3EAfgQyc3EAfgK2dAAPQmFzaWNEaXJlY3RpdmVzcQB+BDJzcQB+ArZ0ABJBbnlQYXJhbURpcmVjdGl2ZXNxAH4EMnNxAH4CtnQAElJvdXRlQ29uY2F0ZW5hdGlvbnEAfgQlc3EAfgK2cQB+AtVzcQB+ArpzcQB+Ar11cQB+AsAAAAADc3EAfgLCcQB+As1zcQB+AsJxAH4C23EAfgLHc3EAfgK2cQB+At1zcQB+ArpzcQB+Ar11cQB+AsAAAAACc3EAfgLCcQB+AsVxAH4Cx3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAA2NvbXNxAH4EfHQAG2NvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9uc3NxAH4EfHQAH2NvbS50ZWNobm9sb2d5Y29udmVyc2F0aW9ucy5hcGlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVx1vkVmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUC9tZWRpYS94bHBpL3NzZEQvUHJqU2NhbGEvZGF0YXJvb3QvZG9ja2VyRnVuL3Rlc3QtYm9vay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyi/ZQilK6nelWJYZIpe58BfrE18=
+external apis:
+0 items
+source infos:
+2 items
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/Service.scala -> 
+AAAAAAAAAAA=
+/media/xlpi/ssdD/PrjScala/dataroot/dockerFun/test-book/src/main/scala/com/technologyconversations/api/ServiceActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG9fZwp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9tZWRpYS94bHBpL3NzZEQvUHJqU2NhbGEvZGF0YXJvb3QvZG9ja2VyRnVuL2Jvb2tzLXNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXHW+RWZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9tZWRpYS94bHBpL3NzZEQvUHJqU2NhbGEvZGF0YXJvb3QvZG9ja2VyRnVuL3Rlc3QtYm9vay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
